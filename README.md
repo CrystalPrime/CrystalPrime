@@ -46,9 +46,9 @@ I build LLM-powered systems, multi-agent architectures, and end-to-end ML pipeli
 > Drop any PDF in a folder — each document becomes a dedicated FAISS-indexed tool. The agent picks the right source and answers with page-level citations.  
 > `LangChain` `LangGraph` `FAISS` `HuggingFace Embeddings` `Groq`
 
-### 🔬 [Research Agent](https://github.com/CrystalPrime/research-agent) — Multi-Tool Conversational Agent
-> Autonomous agent that routes questions to Wikipedia, DuckDuckGo, or a calculator — with full multi-turn memory.  
-> `LangChain` `LangGraph` `Groq` `DuckDuckGo`
+### 📋 [Daily Briefing](https://github.com/CrystalPrime/daily-briefing) — Personal AI Assistant
+> LangGraph ReAct agent connected to Gmail & Google Calendar. One-click daily briefing, email replies in your own writing style, live mail notifications, and Google OAuth landing page.  
+> `LangChain` `LangGraph` `Ollama` `Gmail API` `Google Calendar API` `FastAPI` `Google OAuth`
 
 ---
 
