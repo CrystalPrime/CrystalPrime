@@ -38,8 +38,8 @@ I build LLM-powered systems, multi-agent architectures, and end-to-end ML pipeli
 > LangGraph multi-agent system with a Supervisor pattern routing across 4 specialist agents. Real-time stock data, interactive Plotly charts, RAG over financial documents, and live news search.  
 > `LangGraph` `LangChain` `Groq` `FAISS` `yfinance` `Plotly` `Streamlit`
 
-### 🎙️ [VoiceNotes AI](https://github.com/CrystalPrime/voicenotes-ai) — Speech-to-Text Note Taker
-> Modular voice note app — transcribes audio with Whisper, generates structured AI summaries (key points, action items, tags), and manages notes with export to Markdown.  
+### 🎙️ [ScribeAI](https://github.com/CrystalPrime/ScribeAI) — Speech-to-Text Note Taker
+> A voice note application powered by Whisper STT and an open-source LLM — transcribe your voice, get an instant AI-generated summary, and manage your notes.
 > `Whisper` `LangChain` `HuggingFace` `Gradio`
 
 ### 📚 [Book Agent](https://github.com/CrystalPrime/book-agent) — Conversational RAG over PDFs
